@@ -162,10 +162,11 @@ h1 {
 .botao-dentro p {
   color: white;
   margin: 0;
-  font-weight: bold;
   margin-top: 15px;
   margin-left: 20px;
   text-align: left;
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
 }
 
 #beneficios h3 {
