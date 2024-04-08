@@ -84,7 +84,7 @@ h1 {
 }
 
 .botao_bloco:hover {
-  background-color: rgb(31, 207, 75);
+  background-color: #5fbfd4;
   transform: scale(1.05);
 }
 
