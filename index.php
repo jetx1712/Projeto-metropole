@@ -12,7 +12,7 @@
                 <p>Em breve, você vai poder acompanhar o andamento do projeto Metrópole + Iluminada neste espaço. Por
                     enquanto leia o material do projeto.
                 </p>
-                <button class="botao_bloco">Visualizar Workshop</button>
+                <a href="Workshop_Metropole_+_Iluminada-Rev.1.8.pdf" target="a_blank"><button class="botao_bloco">Visualizar Workshop</button></a>
                 <img id="homi" src="images/mulher.png" />
 
             </div>
