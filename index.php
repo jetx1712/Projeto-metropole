@@ -3,7 +3,11 @@
 <body>
     <section class="banner">
         <div style="justify-content: center" class="row">
-            <img class="logo_top" src="images/logo-top.png" />
+            <div style="position: absolute;">
+                <img class="logo_top" src="images/logo_metropole.png" />
+                <img class="logo_top" src="images/linha.png" />
+                <img class="logo_top" src="images/riometropole.png" />
+            </div>
         </div>
         <div class="container">
             <div class="bloco">
@@ -12,7 +16,8 @@
                 <p>Em breve, você vai poder acompanhar o andamento do projeto Metrópole + Iluminada neste espaço. Por
                     enquanto leia o material do projeto.
                 </p>
-                <a href="Workshop_Metropole_+_Iluminada-Rev.1.8.pdf" target="a_blank"><button class="botao_bloco">Visualizar Workshop</button></a>
+                <a href="Workshop_Metropole_+_Iluminada-Rev.1.8.pdf" target="a_blank"><button
+                        class="botao_bloco">Visualizar Workshop</button></a>
                 <img id="homi" src="images/mulher.png" />
 
             </div>
@@ -32,17 +37,27 @@
                 Metrópole + Iluminada, um projeto do Instituto Rio Metrópole dedicado à modernização e eficientização
                 dos parques de iluminação pública de 19 municípios da Região Metropolitana do Rio de Janeiro
             </h1>
-            <p style="margin-top: 30px">O <span class="paragrafo_sobre">Instituto Rio Metrópole (IRM)</span> vai oferecer a <span class="paragrafo_sobre">estruturação</span> e o <span class="paragrafo_sobre">suporte</span>
-                necessário para que 19 municípios da <span class="paragrafo_sobre">Região Metropolitana do Rio</span> possam gerir, ampliar,
-                operar e manter seus <span class="paragrafo_sobre">parques de iluminação pública.</span> Além da substituição das lâmpadas por <span class="paragrafo_sobre">tecnologia
-                LED</span>, o projeto <span class="paragrafo_sobre">Metrópole + Iluminada</span> vai sugerir soluções de <span class="paragrafo_sobre">telegestão</span> e <span class="paragrafo_sobre">monitoramento
-                remoto</span> para as Prefeituras de <span class="paragrafo_sobre">Belford Roxo, Cachoeiras de Macacu, Duque de Caxias, Guapimirim, Itaboraí,
-                Itaguaí, Japeri, Magé, Maricá, Mesquita, Nilópolis, Niterói, Paracambi, Petrópolis,
-                Queimados, Rio Bonito, São Gonçalo, Seropédica e Tanguá</span>, por meio de uma <span class="paragrafo_sobre">Parceria Público-Privada (PPP).</span>
+            <p style="margin-top: 30px">O <span class="paragrafo_sobre">Instituto Rio Metrópole (IRM)</span> vai
+                oferecer a <span class="paragrafo_sobre">estruturação</span> e o <span
+                    class="paragrafo_sobre">suporte</span>
+                necessário para que 19 municípios da <span class="paragrafo_sobre">Região Metropolitana do Rio</span>
+                possam gerir, ampliar,
+                operar e manter seus <span class="paragrafo_sobre">parques de iluminação pública.</span> Além da
+                substituição das lâmpadas por <span class="paragrafo_sobre">tecnologia
+                    LED</span>, o projeto <span class="paragrafo_sobre">Metrópole + Iluminada</span> vai sugerir
+                soluções de <span class="paragrafo_sobre">telegestão</span> e <span
+                    class="paragrafo_sobre">monitoramento
+                    remoto</span> para as Prefeituras de <span class="paragrafo_sobre">Belford Roxo, Cachoeiras de
+                    Macacu, Duque de Caxias, Guapimirim, Itaboraí,
+                    Itaguaí, Japeri, Magé, Maricá, Mesquita, Nilópolis, Niterói, Paracambi, Petrópolis,
+                    Queimados, Rio Bonito, São Gonçalo, Seropédica e Tanguá</span>, por meio de uma <span
+                    class="paragrafo_sobre">Parceria Público-Privada (PPP).</span>
             </p>
             <p style="margin-top: 30px">
-                Com base em casos bem-sucedidos em cidades que conduziram iniciativas de <span class="paragrafo_sobre">modernização</span> e
-                <span class="paragrafo_sobre">eficientização energética</span>, o IRM prevê mais segurança, redução no número de acidentes e promoção de
+                Com base em casos bem-sucedidos em cidades que conduziram iniciativas de <span
+                    class="paragrafo_sobre">modernização</span> e
+                <span class="paragrafo_sobre">eficientização energética</span>, o IRM prevê mais segurança, redução no
+                número de acidentes e promoção de
                 qualidade de vida. O cidadão vai poder realizar atividades recreativas e esportivas em áreas até
                 então pouco movimentadas. Todo esse cenário incentiva também atividades econômicas.
             </p>
@@ -79,7 +94,8 @@
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
                         <img src="images/icons/ideia.png" />
-                        <p style="margin-left: 41px">Modernização e ampliação do Parque por meio do uso de novas tecnologias, em especial as baseadas em LED;</p>
+                        <p style="margin-left: 41px">Modernização e ampliação do Parque por meio do uso de novas
+                            tecnologias, em especial as baseadas em LED;</p>
                     </div>
                 </div>
                 <div class="botão-beneficio">
@@ -89,7 +105,8 @@
                     </div>
                 </div>
             </div>
-            <h4 style="text-align: center; margin-bottom:150px; margin-top: 150px;">Em breve, você vai poder acompanhar o andamento do projeto Metrópole + Iluminada neste espaço.</h4>
+            <h4 style="text-align: center; margin-bottom:150px; margin-top: 150px;">Em breve, você vai poder acompanhar
+                o andamento do projeto Metrópole + Iluminada neste espaço.</h4>
         </div>
     </section>
     <?php require ('footer.php') ?>
