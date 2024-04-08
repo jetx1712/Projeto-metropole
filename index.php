@@ -9,20 +9,19 @@
             <div class="bloco">
                 <h1>Conheça o material</h1>
                 <hr />
-                <p>Em breve, você vai poder acompanhar o andamento do projeto
-                    Nova Energia
-                    neste espaço. Por enquanto leia o material do projeto.
+                <p>Em breve, você vai poder acompanhar o andamento do projeto Metrópole + Iluminada neste espaço. Por
+                    enquanto leia o material do projeto.
                 </p>
                 <button class="botao_bloco">Visualizar Workshop</button>
-                <img id="homi" src="images/homi.png" />
+                <img id="homi" src="images/mulher.png" />
 
             </div>
         </div>
         <img class="banner" src="images/banner.png" />
         <div class="container">
-            <h1 class="titulo"> Projeto Nova Energia</h1>
-            <p class="subtitulo">O caminho para uma energia mais sustentável e com menos impacto para os prédios
-                públicos da região Metropolitana do Estado do Rio de Janeiro</p>
+            <h1 class="titulo">Projeto Metrópole + Iluminada</h1>
+            <p class="subtitulo">Bem-vindo ao futuro da iluminação pública na Região Metropolitana do Rio de Janeiro.
+            </p>
         </div>
 
     </section>
@@ -30,74 +29,63 @@
     <section id="sobre">
         <div class="container">
             <h1 class="titulo_sobre">
-                Nova Energia, um projeto do instituto Rio Metrópole que traz soluções para a eficiência e a transição
-                energética
-                da Região Meropolitana do Rio de Janeiro
+                Metrópole + Iluminada, um projeto do Instituto Rio Metrópole dedicado à modernização e eficientização
+                dos parques de iluminação pública de 19 municípios da Região Metropolitana do Rio de Janeiro
             </h1>
-            <p style="margin-top: 30px">Como Alcançar a <span class="paragrafo_sobre">eficiência</span> e realizar a
-                <span class="paragrafo_sobre">transição energética</span> nos prédios públicos do <span
-                    class="paragrafo_sobre">Rio de Janeiro?</span>
-                Essas são algumas das muitas questões levantadas pelo <span class="paragrafo_sobre">Instituto Rio
-                    Metrópole (IRM)</span> quando o assunto envolve
-                a <span class="paragrafo_sobre">Região Metropolitana do Rio de Janeiro</span> Como seu compromisso é
-                buscar soluções tecnológicas de ponta
-                para a infraestrutura de transporte, conectividade, iluminação publica e modelos de eficiência
-                energética, o <span class="paragrafo_sobre">IRM</span>
-                lançou o projeto <span class="paragrafo_sobre">Nova Energia.</span>
+            <p style="margin-top: 30px">O <span class="paragrafo_sobre">Instituto Rio Metrópole (IRM)</span> vai oferecer a <span class="paragrafo_sobre">estruturação</span> e o <span class="paragrafo_sobre">suporte</span>
+                necessário para que 19 municípios da <span class="paragrafo_sobre">Região Metropolitana do Rio</span> possam gerir, ampliar,
+                operar e manter seus <span class="paragrafo_sobre">parques de iluminação pública.</span> Além da substituição das lâmpadas por <span class="paragrafo_sobre">tecnologia
+                LED</span>, o projeto <span class="paragrafo_sobre">Metrópole + Iluminada</span> vai sugerir soluções de <span class="paragrafo_sobre">telegestão</span> e <span class="paragrafo_sobre">monitoramento
+                remoto</span> para as Prefeituras de <span class="paragrafo_sobre">Belford Roxo, Cachoeiras de Macacu, Duque de Caxias, Guapimirim, Itaboraí,
+                Itaguaí, Japeri, Magé, Maricá, Mesquita, Nilópolis, Niterói, Paracambi, Petrópolis,
+                Queimados, Rio Bonito, São Gonçalo, Seropédica e Tanguá</span>, por meio de uma <span class="paragrafo_sobre">Parceria Público-Privada (PPP).</span>
             </p>
             <p style="margin-top: 30px">
-                A iniciativa vai criar um banco de dados e definir uma modelagem de transição, gestão e eficiência
-                energética em prédios
-                públicos de 19 municípios da Região Metropolitana - <span class="paragrafo_sobre">Belford Roxo,
-                    Cachoeiras de Macacu, Duque de Caxias, Guapimirim, Itaboraí, Japeri, Magé,
-                    Maricá, Mesquita,Nilópolis, Niterói, Paracambi, Petrópolis, Queimados, Rio Bonito, São Gonçalo,
-                    Seropédica e Tanguá </span> - e também os prédios públicos do Estado em todo seu território.
-                <span class="paragrafo_sobre"> Nova Iguaçu, São João de Meriti e Rio de Janeiro</span> já tem seus
-                programas próprios de eficiência energética.
-            </p>
-            <p>
-                O projeto procura reduzir as contas de energia, mapear características de consumo e identificar
-                oportunidades de
-                <span class="paragrafo_sobre">otimização financeira e eficiência energética.</span> Também prevê estudos
-                para transição de matriz energética
-                e estratégias de contratação de <span class="paragrafo_sobre">energia sustentável.</span>
-            </p>
-            <p>
-                Ele atende a dois dos 17 <span class="paragrafo_sobre">Objetivos de Desenvolvimento Sustentável
-                    (ODS)</span>, parte da chamada <span class="paragrafo_sobre">"Agenda 2030",</span> um pacto global
-                assinado durante a
-                <span class="paragrafo_sobre"> Cúpula das Nações Unidas</span> em 2015 pelos 193 países membros - o
-                Brasil é um deles. São elas:
-                <span class="paragrafo_sobre">ODS 7</span>(energia limnpa e acessível: garantir acesso á energia barata.
-                confiável, sustentável e renovável para todos) e <span class="paragrafo_sobre">ODS 13</span>(ação
-                contra a mudança global do clima: tomar medidas urgentes para combater a mudança climática e seus
-                impactos.).
+                Com base em casos bem-sucedidos em cidades que conduziram iniciativas de <span class="paragrafo_sobre">modernização</span> e
+                <span class="paragrafo_sobre">eficientização energética</span>, o IRM prevê mais segurança, redução no número de acidentes e promoção de
+                qualidade de vida. O cidadão vai poder realizar atividades recreativas e esportivas em áreas até
+                então pouco movimentadas. Todo esse cenário incentiva também atividades econômicas.
             </p>
         </div>
     </section>
     <section id="beneficios">
         <div class="container">
-            <h1 style="text-align:center;" class="titulo_beneficio">Os Benefícios</h1>
+            <h1 style="text-align:center;" class="titulo_beneficio">Mais Benefícios</h1>
             <div id="beneficios">
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
-                        <img src="images/icons/mao.png" />
-                        <p>Reduz gastos públicos, possibilitando direcionar o valor economizado para áreas como Saúde e
-                            Educação</p>
+                        <img src="images/icons/praca.png" />
+                        <p>Espaços públicos mais inclusivos, seguros, resilientes e sustentáveis (ODS 11 – ONU);</p>
                     </div>
                 </div>
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
-                        <img src="images/icons/mao-segurando-o-mundo.png" />
-                        <p style="margin-top: 5px;">Reduzir os impactos ambientais, contribuindo para que o brasil
-                            alcance as metas de
-                            descarbonização e <br> de controle do aquecimento global.</p>
+                        <img src="images/icons/escudo.png" />
+                        <p style="margin-left: 30px">Melhoria direta da segurança pública;</p>
+                    </div>
+                </div>
+                <div class="botão-beneficio">
+                    <div class="botao-dentro">
+                        <img src="images/icons/mao-dinheiro.png" />
+                        <p>Redução na fatura de energia elétrica;</p>
+                    </div>
+                </div>
+                <div class="botão-beneficio">
+                    <div class="botao-dentro">
+                        <img src="images/icons/reducao.png" />
+                        <p>Redução dos custos de operação e manutenção do Parque de Iluminação Pública;</p>
+                    </div>
+                </div>
+                <div class="botão-beneficio">
+                    <div class="botao-dentro">
+                        <img src="images/icons/ideia.png" />
+                        <p style="margin-left: 41px">Modernização e ampliação do Parque por meio do uso de novas tecnologias, em especial as baseadas em LED;</p>
                     </div>
                 </div>
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
                         <img src="images/icons/energia.png" />
-                        <p>Usar uma matriz energética mais sustentável, preferencialmente solar e biomassa.</p>
+                        <p>Expansão da rede de energia.</p>
                     </div>
                 </div>
             </div>
