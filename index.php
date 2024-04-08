@@ -2,7 +2,7 @@
 
 <body>
     <section class="banner">
-        <div style="justify-content: center" class="row">
+        <div style="justify-content: center"  class="row">
             <div style="position: absolute;">
                 <img class="logo_top" src="images/logo_metropole.png" />
                 <img class="logo_top" src="images/linha.png" />
