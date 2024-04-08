@@ -1,6 +1,6 @@
 <footer>
-        <img style="margin: 30px" src="images/logo-rodape.png" />
-        <p>Nova Energia - 2024 | Todos os direitos reservados</p>
+        <img style="max-width: 200px" src="images/logo-rodape.png" />
+        <p>© Metrópole + Iluminada- 2024 | Todos os direitos reservados.</p>
     </footer>
     <section>
         <div class="container">

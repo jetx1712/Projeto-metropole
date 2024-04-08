@@ -22,7 +22,7 @@ h1 {
 
 .bloco {
   padding: 30px;
-  background: #0978b2;
+  background: #22858E;
   border-radius: 20px;
   width: 600px;
   height: 300px;
@@ -72,7 +72,7 @@ h1 {
 }
 
 .botao_bloco {
-  background-color: rgb(6 74 110);
+  background-color: #055D6A;
   color: white;
   border-radius: 30px;
   border: none;
@@ -135,7 +135,7 @@ h1 {
 .botão-beneficio {
   padding: 20px;
   border-radius: 100px;
-  background: rgb(9 120 178);
+  background: #22858E;
   margin-top: 30px;
   padding-top: 14px;
   padding-bottom: 14px;
@@ -296,7 +296,6 @@ footer p {
 
   .bloco {
     padding: 30px;
-    background: #0978b2;
     border-radius: 20px;
     width: 375px;
     height: 300px;
@@ -308,8 +307,8 @@ footer p {
 
   #homi {
     left: 190px;
-    max-width: 170px;
-    top: 85px;
+    max-width: 180px;
+    top: 79px;
   }
 
   .bloco h1 {
@@ -390,8 +389,6 @@ footer p {
 
   .bloco {
     padding: 30px;
-    background: #0978b2;
-    border-radius: 20px;
     width: 375px;
     height: 300px;
     position: absolute;
@@ -402,7 +399,7 @@ footer p {
   #homi {
     max-width: 170px;
     position: absolute;
-    top: 85px;
+    top: 91px;
     left: 200px;
   }
 
@@ -485,7 +482,6 @@ footer p {
 
   .bloco {
     padding: 30px;
-    background: #0978b2;
     border-radius: 20px;
     width: 375px;
     height: 300px;
@@ -510,7 +506,7 @@ footer p {
   #homi {
     max-width: 160px;
     position: absolute;
-    top: 98px;
+    top: 103px;
     left: 220px;
   }
 
@@ -600,8 +596,8 @@ footer p {
   #homi {
     max-width: 180px;
     position: absolute;
-    top: 72px;
-    left: 220px;
+    top: 79px;
+    left: 240px;
 }
 
   .botao-dentro {
@@ -673,8 +669,8 @@ footer p {
   #homi {
     max-width: 180px;
     position: absolute;
-    top: 72px;
-    left: 220px;
+    top: 79px;
+    left: 240px;
   }
 
   .botao-dentro {
@@ -726,7 +722,7 @@ footer p {
   #homi {
     max-width: 200px;
     position: absolute;
-    top: 46px;
+    top: 54px;
     left: 250px;
   }
 }
@@ -775,9 +771,9 @@ footer p {
   #homi {
     max-width: 250px;
     position: absolute;
-    top: -15px;
+    top: -7px;
     left: 270px;
-  }
+}
 
   .botao-dentro {
     display: flex;
@@ -846,7 +842,7 @@ footer p {
   #homi {
     max-width: 250px;
     position: absolute;
-    top: -15px;
+    top: -7px;
     left: 270px;
   }
 }
@@ -982,10 +978,10 @@ footer p {
   }
 
   #homi {
-    max-width: 250px;
+    max-width: 260px;
     position: absolute;
-    top: -15px;
-    left: 350px;
+    top: -20px;
+    left: 340px;
   }
 }
 

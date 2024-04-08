@@ -89,10 +89,7 @@
                     </div>
                 </div>
             </div>
-            <h3 style="text-align: center;">O projeto NOVA ENERGIA é financiado pelo IRM e pela Secretaria de
-                Planejamento e Gestão do Estado do Rio de Janeiro (SEPLAG)</h3>
-            <h4 style="text-align: center; margin-bottom: 40px">Em breve, você vai poder acompanhar o adamento do
-                projeto Nova Energia neste espaço.</h4>
+            <h4 style="text-align: center; margin-bottom:150px; margin-top: 150px;">Em breve, você vai poder acompanhar o andamento do projeto Metrópole + Iluminada neste espaço.</h4>
         </div>
     </section>
     <?php require ('footer.php') ?>
