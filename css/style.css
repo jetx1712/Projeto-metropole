@@ -142,7 +142,6 @@ h1 {
   padding-bottom: 14px;
   text-align: center;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
-  display: flex;
 }
 
 .botao-dentro {
@@ -459,7 +458,6 @@ footer p {
     font-size: 40px;
     margin-top: -700px;
     color: white;
-
     text-align: left;
   }
 
@@ -474,7 +472,7 @@ footer p {
 
   .titulo_sobre {
     font-size: 25px;
-    margin-top: 0px;
+    margin-top: 240px;
   }
 
   .bloco {

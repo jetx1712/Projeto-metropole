@@ -56,7 +56,7 @@
     </section>
     <section id="beneficios">
         <div class="container">
-            <h1 style="text-align:center;" class="titulo_beneficio">Mais Benefícios</h1>
+            <h1 style="text-align:center;" class="titulo_beneficio">Mais benefícios</h1>
             <div id="beneficios">
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
@@ -67,7 +67,7 @@
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
                         <img src="images/icons/escudo.png" />
-                        <p style="margin-left: 30px">Melhoria direta da segurança pública;</p>
+                        <p>Melhoria direta da segurança pública;</p>
                     </div>
                 </div>
                 <div class="botão-beneficio">
@@ -85,7 +85,7 @@
                 <div class="botão-beneficio">
                     <div class="botao-dentro">
                         <img src="images/icons/ideia.png" />
-                        <p style="margin-left: 41px">Modernização e ampliação do Parque por meio do uso de novas
+                        <p>Modernização e ampliação do Parque por meio do uso de novas
                             tecnologias, em especial as baseadas em LED;</p>
                     </div>
                 </div>
